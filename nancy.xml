@@ -5,6 +5,13 @@
 <description>Daily Nancy strip links (unofficial feed)</description>
 <language>en</language>
 <item>
+<title>Nancy - 2026-11-13</title>
+<link>https://www.gocomics.com/nancy/2026/11/13</link>
+<guid isPermaLink="true">https://www.gocomics.com/nancy/2026/11/13</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 -0500</pubDate>
+<description>Nancy strip for 2026-11-13</description>
+</item>
+<item>
 <title>Nancy - 2026-11-12</title>
 <link>https://www.gocomics.com/nancy/2026/11/12</link>
 <guid isPermaLink="true">https://www.gocomics.com/nancy/2026/11/12</guid>
@@ -66,12 +73,5 @@
 <guid isPermaLink="true">https://www.gocomics.com/nancy/2026/11/04</guid>
 <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
 <description>Nancy strip for 2026-11-04</description>
-</item>
-<item>
-<title>Nancy - 2026-11-03</title>
-<link>https://www.gocomics.com/nancy/2026/11/03</link>
-<guid isPermaLink="true">https://www.gocomics.com/nancy/2026/11/03</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-<description>Nancy strip for 2026-11-03</description>
 </item>
 </channel></rss>
